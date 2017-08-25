@@ -7,5 +7,5 @@ import (
 //isto é um comentario
 
 func main() {
-	fmt.Println("Hello, World")
+	fmt.Println("Hello, my name is JC")
 }
