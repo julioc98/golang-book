@@ -1,6 +1,6 @@
 # Exercicios
 
-## Decidi não continuara essa parte por reproduzir partes do livro
+## Decidi não continuar essa parte por reproduzir partes do livro
 
 **1. O que é um espaço em branco?**
 
