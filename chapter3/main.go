@@ -4,7 +4,8 @@ import (
 	"fmt"
 )
 
+var x string = "Hello, World"
+
 func main() {
-	dogsName := "Max"
-	fmt.Println("My dog's name is", dogsName)
+	fmt.Println(x)
 }
