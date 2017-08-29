@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	x := 5
-	fmt.Println(x)
+	x := "Max"
+	fmt.Println("My dog's name is", x)
 }
