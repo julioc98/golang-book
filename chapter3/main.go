@@ -1,14 +1,7 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
 	const x string = "Hello, World"
-	fmt.Println(x)
-}
+	x = "Some other string"
 
-func f() {
-	fmt.Println(x)
 }
