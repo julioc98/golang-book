@@ -5,13 +5,19 @@ import (
 )
 
 func main() {
-	for i := 1; i <= 10; i++ {
-		if i%2 == 0 {
-			fmt.Println(i, "divisível por 2")
-		} else if i%3 == 0 {
-			fmt.Println(i, "divisível por 3")
-		} else if i%4 == 0 {
-			fmt.Println(i, "divisível por 4")
+	for i := 0; i <= 5; i++ {
+		if i == 0 {
+			fmt.Println("Zero")
+		} else if i == 1 {
+			fmt.Println("One")
+		} else if i == 2 {
+			fmt.Println("Two")
+		} else if i == 3 {
+			fmt.Println("Three")
+		} else if i == 4 {
+			fmt.Println("Four")
+		} else if i == 5 {
+			fmt.Println("Five")
 		}
 	}
 }
