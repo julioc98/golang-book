@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	for i := 0; i <= 5; i++ {
+	for i := 0; i <= 6; i++ {
 		switch i {
 		case 0:
 			fmt.Println("Zero")
@@ -19,6 +19,9 @@ func main() {
 			fmt.Println("Four")
 		case 5:
 			fmt.Println("Five")
+		default:
+			fmt.Println("Unknown Number")
 		}
+
 	}
 }
